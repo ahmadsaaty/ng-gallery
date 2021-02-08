@@ -1,5 +1,6 @@
 nav {
-    background-color: #424242;
+    background-color: rgb(58 176 195);
+    border-radius: 10px;
     font-family: 'Lato', sans-serif;
 }
 
@@ -10,10 +11,3 @@ nav {
 
 }
 
-ul.nav a {
-
-}
-
-ul.nav a:hover{
-    
-}
